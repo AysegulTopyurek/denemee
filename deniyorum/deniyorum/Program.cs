@@ -8,6 +8,7 @@ namespace deniyorum
 {
     static class Program
     {
+        // Ayşegül
         /// <summary>
         /// Uygulamanın ana girdi noktası.
         /// </summary>
